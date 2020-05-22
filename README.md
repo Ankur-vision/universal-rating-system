@@ -1,0 +1,2 @@
+# universal-rating-system
+URS is the project to solve the problems associated with online ratings and evaluations. It is to provide a universally available, open-source platform and a framework for all the developers to develop trustworthy tools and techniques. It provides a framework to transparently ascertain consumer interaction, information storage, and assessment for any kind of assets, products, services, or information. This helps to improve our decision making toward the dilemma we face against infinite choices and ratings available online. 
